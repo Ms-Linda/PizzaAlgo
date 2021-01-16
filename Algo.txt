@@ -1,1 +1,18 @@
-Algo
+1. Choose pizza place
+2. Choose type of pizza
+3. Decide on delicious extra toppings
+4. Select delicious shake (or soda)
+5. Add scrumptious dessert(s)
+6. Call and place order
+7. Request personal preference (i.e., pizza be made extra crispy) (if applicable)
+8. Request extras, if desired (i.e., hot peppers, cheese packets, garlic sauce)
+9. Pay for order
+   9a. Over phone
+   9b. At door/in person 
+10. Smile and thank phone order taker
+11. Await hot, delicious order
+12. Keep phone line open for when driver calls
+13. Smile and greet delivery driver
+14. Apply Step 9b, pay at door (if applicable) 
+15. Receive delicious order
+16. Smile, thank driver, and tip driver (if desired)
